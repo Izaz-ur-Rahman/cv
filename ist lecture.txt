@@ -1,0 +1,14 @@
+1. meta=UTF-8 mean all the national symbol are encoded.
+2. ol ( order list)  and ul( unordered list )
+3. strong ( bold)
+4. em ( emphesize)
+5. a href="https:\" lint distination
+6. new file separatly 
+7. picture upload (img scr="path")
+8. <table border="1"> is used for bordering
+9. inside the table we have table row (tr) and inside the the table row we have table data (td).
+10. also inside the table is head so it can be right like this ,  for example
+     <tr>
+       <th>some data </th>
+      </tr>
+ 
